@@ -31,4 +31,4 @@ tqdm==4.67.0
 transformers==4.46.3
 typing_extensions==4.12.2
 urllib3==2.2.3
-tensorflow==2.16.1  # TensorFlow 2.16.1 is compatible with numpy==1.26.0
+tensorflow==2.16.1  
