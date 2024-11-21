@@ -4,7 +4,6 @@ import logging
 import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
-from bot.handlers import generate_gpt_response  
 from telegram.constants import ChatAction
 from core.image_processing import ImageProcessing
 
