@@ -11,9 +11,9 @@ httpx==0.27.2
 huggingface-hub==0.26.2
 idna==3.10
 jiter==0.7.1
-numpy>=1.26.0,<2.0.0
+numpy==1.26.0  # Fixed to a compatible version with tensorflow
 openai==1.55.0
-opencv-python==4.10.0.84
+opencv-python==4.10.0.84  # This version is compatible with numpy 1.26.0
 packaging==24.2
 pillow==11.0.0
 pydantic==2.10.0
@@ -31,4 +31,4 @@ tqdm==4.67.0
 transformers==4.46.3
 typing_extensions==4.12.2
 urllib3==2.2.3
-tensorflow==2.16.1
+tensorflow==2.16.1  # TensorFlow 2.16.1 is compatible with numpy==1.26.0
