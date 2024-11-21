@@ -1,0 +1,74 @@
+{
+    "name": {
+        "first": "Donald",
+        "middle": "Mxolisi",
+        "last": "Mohlala"
+    },
+    "contact": {
+        "email": "donald.mxolisi@proton.me",
+        "phone": "0729319169"
+    },
+    "personal": {
+        "age": 21,
+        "gender": "male",
+        "pronouns": "him/he",
+        "birthplace": {
+            "country": "South Africa",
+            "province": "Mpumalanga",
+            "city": "Lydenburg"
+        },
+        "birthday": "2003-11-20"
+    },
+    "profession": {
+        "title": "Software Engineer & Mathematician",
+        "specializations": [
+            "Machine Learning",
+            "Web Development",
+            "Algorithms",
+            "Mathematical Modeling"
+        ],
+        "skills": [
+            "Python",
+            "JavaScript",
+            "React",
+            "TensorFlow",
+            "Data Analysis"
+        ],
+        "experience_years": 3
+    },
+    "education": {
+        "degree": "Bachelor of Science in Mathematics & Computer Science",
+        "institution": "University of Limpopo",
+        "graduation_year": 2023
+    },
+    "hobbies": [
+        "Coding innovative projects",
+        "Solving math puzzles",
+        "Reading about quantum computing",
+        "Exploring new technology"
+    ],
+    "favorites": {
+        "quote": "The only way to do great work is to love what you do. - Steve Jobs",
+        "programming_language": "Python",
+        "mathematician": "Alan Turing",
+        "book": "Gödel, Escher, Bach by Douglas Hofstadter",
+        "music_genre": "Jazz"
+    },
+    "philosophy": {
+        "work_ethic": "Hard work beats talent when talent doesn't work hard.",
+        "personal_motto": "Strive to leave the world better than you found it."
+    },
+    "relationships": {
+        "friends": ["James", "Lerato", "Nthabiseng"],
+        "mentors": ["Professor Thandi Mhlongo", "Dr. Musa Kgatle"]
+    },
+    "achievements": [
+        "Graduated top of class in Mathematics.",
+        "Developed a trading app used by 1000+ users.",
+        "Created an AI model for stock market predictions."
+    ],
+    "aspirations": {
+        "short_term": "Build a successful tech startup.",
+        "long_term": "Contribute to AI research that benefits humanity."
+    }
+}
