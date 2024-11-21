@@ -31,3 +31,4 @@ tqdm==4.67.0
 transformers==4.46.3
 typing_extensions==4.12.2
 urllib3==2.2.3
+tensorflow==2.13.0
